@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>FDD3024 Research preparation course in programming languages and formal methods</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <style type="text/css"> body {font-family: Arial, Helvetica; margin-left: 5em; font-size: large;} </style>
+  <style type="text/css"> h1 {margin-left: 0em; padding: 0px; text-align: center} </style>
+  <style type="text/css"> h2 {margin-left: 0em; padding: 0px; color: #580909} </style>
+  <style type="text/css"> h3 {margin-left: 1em; padding: 0px; color: #C05001;} </style>
+  <style type="text/css"> body { min-width: 60% !important; }</style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">FDD3024 Research preparation course in programming
+languages and formal methods</h1>
+</header>
+<div style="text-align:left">
+<img src="github-mark.png" height="25" style="border:0px">
+<a href="https://github.com/kth-step/plfm-course">View the course on
+GitHub</a> <img src="github-mark.png" height="25" style="border:0px">
+</div>
+<h2 id="about-the-course">About the course</h2>
+<p>This <a
+href="https://www.kth.se/student/kurser/kurs/FDD3024/?l=en">course at
+KTH</a> introduces theory, methods, and tools that are prerequisites for
+research in the areas of programming languages and formal methods. The
+course awards 10 ECTS credits and the examiner is <a
+href="https://www.kth.se/profile/mfd/">Mads Dam</a>.</p>
+<h2 id="course-intended-learning-outcomes">Course intended learning
+outcomes</h2>
+<p>At the end of the course the student should be able to:</p>
+<ul>
+<li>Apply several theories and methods covered in the course on sample
+problems of limited scope and size</li>
+<li>Evaluate the suitability of a given theory/method within a given
+problem domain</li>
+<li>Define and execute a first own research project within the students
+research area</li>
+<li>Account for choice of approach</li>
+<li>Relate own work to the state of the art in the area</li>
+</ul>
+<h2 id="course-organization">Course organization</h2>
+<p>The course consists of five modules given by members of faculty and
+postdocs at the <a href="https://www.kth.se/tcs/">KTH Department of
+Theoretical Computer Science</a> over a full term = two periods. Each
+module consists of 3-6 lectures.</p>
+<h2 id="course-examination">Course examination</h2>
+<p>At the end of each period the course spans, a take-home exam is given
+over two days consisting of one problem set per module associated with
+that period. After handing in written solutions, students must book a
+slot to present and discuss their solutions with a teacher, who will
+then grade each problem set pass/fail. A student must get a pass on all
+problem sets to pass the course.</p>
+<h2 id="course-modules">Course modules</h2>
+<p><strong>Module 1 (Period 4, spring 2026)</strong></p>
+<ul>
+<li>Topic: Lambda calculus, operational semantics, and types</li>
+<li>Teachers: Karl Palmskog and Mohammad Ahmadpanah</li>
+</ul>
+<p><strong>Module 2 (Period 4, spring 2026)</strong></p>
+<ul>
+<li>Topic: Formal models of concurrency, process algebras, execution
+traces, bisimulation, weak memory models, modal logics</li>
+<li>Teachers: Mads Dam and Roberto Guanciale</li>
+</ul>
+<p><strong>Module 3 (Period 4, spring 2026)</strong></p>
+<ul>
+<li>Topic: Hoare logic, imperative program verification</li>
+<li>Teachers: Karl Palmskog and Roberto Guanciale</li>
+</ul>
+<p><strong>Module 4 (Period 1, fall 2026)</strong></p>
+<ul>
+<li>Topic: Symbolic execution and Abstract Interpretation</li>
+<li>Teachers: Roberto Guanciale, Musard Balliu, and Mohammad
+Ahmadpanah</li>
+</ul>
+<p><strong>Module 5 (Period 1, fall 2026)</strong></p>
+<ul>
+<li>Topic: Security and Information Flow Control</li>
+<li>Teachers: Musard Balliu and Mohammad Ahmadpanah</li>
+</ul>
+<h2 id="lecture-schedule-for-period-4-2026">Lecture Schedule for Period
+4, 2026</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="left">
+Lecture
+</th>
+<th align="left">
+Module
+</th>
+<th align="left">
+Date
+</th>
+<th align="left">
+Time
+</th>
+<th align="left">
+Location
+</th>
+<th align="left">
+Topic
+</th>
+<th align="left">
+Slides
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">
+1
+</td>
+<td align="left">
+1
+</td>
+<td align="left">
+Apr 13
+</td>
+<td align="left">
+13:00
+</td>
+<td align="left">
+<a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room
+1537</a>
+</td>
+<td align="left">
+Inductive rules, operational semantics, untyped lambda calculus
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="even">
+<td align="left">
+2
+</td>
+<td align="left">
+1
+</td>
+<td align="left">
+Apr 16
+</td>
+<td align="left">
+13:00
+</td>
+<td align="left">
+<a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room
+1537</a>
+</td>
+<td align="left">
+Simply typed lambda calculus, type systems, ML
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="odd">
+<td align="left">
+3
+</td>
+<td align="left">
+1
+</td>
+<td align="left">
+Apr 20
+</td>
+<td align="left">
+13:00
+</td>
+<td align="left">
+<a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room
+1537</a>
+</td>
+<td align="left">
+Data types, abstract types, polymorphism, module systems
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="even">
+<td align="left">
+4
+</td>
+<td align="left">
+1
+</td>
+<td align="left">
+Apr 23
+</td>
+<td align="left">
+13:00
+</td>
+<td align="left">
+<a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room
+1537</a>
+</td>
+<td align="left">
+Simple types, dependent types, theorem proving
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="odd">
+<td align="left">
+5
+</td>
+<td align="left">
+2
+</td>
+<td align="left">
+Week 18
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+Concurrency
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="even">
+<td align="left">
+6
+</td>
+<td align="left">
+2
+</td>
+<td align="left">
+Week 18
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+Concurrency
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="odd">
+<td align="left">
+7
+</td>
+<td align="left">
+2
+</td>
+<td align="left">
+Week 19
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+Concurrency
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="even">
+<td align="left">
+8
+</td>
+<td align="left">
+2
+</td>
+<td align="left">
+Week 19
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+Concurrency
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="odd">
+<td align="left">
+9
+</td>
+<td align="left">
+2
+</td>
+<td align="left">
+Week 20
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+Concurrency
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="even">
+<td align="left">
+10
+</td>
+<td align="left">
+3
+</td>
+<td align="left">
+Week 20
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+Hoare logic
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="odd">
+<td align="left">
+11
+</td>
+<td align="left">
+3
+</td>
+<td align="left">
+Week 20
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+Hoare logic
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+<tr class="even">
+<td align="left">
+12
+</td>
+<td align="left">
+3
+</td>
+<td align="left">
+Week 20
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+TBA
+</td>
+<td align="left">
+Hoare logic
+</td>
+<td align="left">
+TBA
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
