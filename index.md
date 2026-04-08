@@ -205,7 +205,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">1</td>
 <td align="left">1</td>
 <td align="left">
-- PFPL chapters 1-2
+- [PFPL](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf) chapters 1-2
 - [An Introduction to Inductive Definitions](https://lawrencecpaulson.github.io/papers/Aczel-Inductive-Defs.pdf) by Peter Aczel
 - [Untyped Lambda Calculus](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf) by Robert Harper
 - [A Structural Approach to Operational Semantics](https://homepages.inf.ed.ac.uk/gdp/publications/sos_jlap.pdf) by Gordon Plotkin
@@ -215,7 +215,9 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">2</td>
 <td align="left">1</td>
 <td align="left">
-Simply typed lambda calculus, type systems, ML
+- [PFPL](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf) chapter 4
+- [A Sound Semantics for OCaml Light](https://doi.org/10.1007/978-3-540-78739-6_1) by Scott Owens
+- [A Verified Type System for CakeML](https://cakeml.org/ifl15.pdf) by Tan et al.
 </td>
 </tr>
 <tr class="odd">
