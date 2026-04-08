@@ -42,7 +42,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 
 - Topic: Lambda calculus, operational semantics, and types
 - Teachers: Karl Palmskog and Mohammad Ahmadpanah
-- Course literature: [Practical Foundations for Programming Languages, 2nd edition](https://www.cs.cmu.edu/~rwh/pfpl/) by Robert Harper, see [abbreviated online edition](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf)
+- Course literature: [Practical Foundations for Programming Languages, 2nd edition](https://www.cs.cmu.edu/~rwh/pfpl/) by Robert Harper, <strong>PFPL</strong> for short, see [abbreviated online edition](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf)
 
 **Module 2 (Period 4, spring 2026)**
 
@@ -205,25 +205,32 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">1</td>
 <td align="left">1</td>
 <td align="left">
-Inductive rules, operational semantics, untyped lambda calculus</td>
+- PFPL chapters 1-2
+- [An Introduction to Inductive Definitions](https://lawrencecpaulson.github.io/papers/Aczel-Inductive-Defs.pdf) by Peter Aczel
+- [Untyped Lambda Calculus](http://www.cs.cmu.edu/~rwh/pfpl/supplements/ulc.pdf) by Robert Harper
+- [A Structural Approach to Operational Semantics](https://homepages.inf.ed.ac.uk/gdp/publications/sos_jlap.pdf) by Gordon Plotkin
+</td>
 </tr>
 <tr class="even">
 <td align="left">2</td>
 <td align="left">1</td>
 <td align="left">
-Simply typed lambda calculus, type systems, ML</td>
+Simply typed lambda calculus, type systems, ML
+</td>
 </tr>
 <tr class="odd">
 <td align="left">3</td>
 <td align="left">1</td>
 <td align="left">
-Data types, abstract types, polymorphism, module systems</td>
+Data types, abstract types, polymorphism, module systems
+</td>
 </tr>
 <tr class="even">
 <td align="left">4</td>
 <td align="left">1</td>
 <td align="left">
-Simple types, dependent types, theorem proving</td>
+Simple types, dependent types, theorem proving
+</td>
 </tr>
 </tbody>
 </table>
