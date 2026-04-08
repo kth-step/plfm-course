@@ -42,6 +42,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 
 - Topic: Lambda calculus, operational semantics, and types
 - Teachers: Karl Palmskog and Mohammad Ahmadpanah
+- Course literature: [Practical Foundations for Programming Languages, 2nd edition](https://www.cs.cmu.edu/~rwh/pfpl/) by Robert Harper, see [abbreviated online edition](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf)
 
 **Module 2 (Period 4, spring 2026)**
 
