@@ -224,14 +224,19 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">3</td>
 <td align="left">1</td>
 <td align="left">
-Data types, abstract types, polymorphism, module systems
+- [PFPL](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf) chapters 9-11, 17, 44
+- [A theory of type polymorphism in programming](https://doi.org/10.1016/0022-0000(78)90014-4) by Robin Milner
+- [Using dependent types to express modular structure](https://doi.org/10.1145/512644.512670) by David B. MacQueen
+- [How to make ad-hoc polymorphism less ad hoc](https://doi.org/10.1145/75277.75283) by Wadler and Blott
 </td>
 </tr>
 <tr class="even">
 <td align="left">4</td>
 <td align="left">1</td>
 <td align="left">
-Simple types, dependent types, theorem proving
+- [Church's Type Theory](https://plato.stanford.edu/entries/type-theory-church/) by Stanford Encyclopedia of Philosophy
+- [A formulation of the simple theory of types](https://doi.org/10.2307/2266170) by Alonzo Church
+- [Dependent types](https://people.cs.nott.ac.uk/psztxa/oplss-22/dependent.pdf) by Thorsten Altenkirch
 </td>
 </tr>
 </tbody>
