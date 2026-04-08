@@ -56,12 +56,12 @@ At the end of each period the course spans, a take-home exam is given over two d
 
 **Module 4 (Period 1, fall 2026)**
 
-- Topic: Symbolic execution and Abstract Interpretation
-- Teachers: Roberto Guanciale, Musard Balliu, and Mohammad Ahmadpanah
+- Topic: Symbolic execution and abstract interpretation
+- Teachers: Roberto Guanciale and Musard Balliu
 
 **Module 5 (Period 1, fall 2026)**
 
-- Topic: Security and Information Flow Control
+- Topic: Security and information flow control
 - Teachers: Musard Balliu and Mohammad Ahmadpanah 
 
 ## Lecture Schedule for Period 4, 2026
