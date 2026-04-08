@@ -189,3 +189,41 @@ At the end of each period the course spans, a take-home exam is given over two d
 </tr>
 </tbody>
 </table>
+
+## Lecture Resources
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">Lecture</th>
+<th align="left">Module</th>
+<th align="left">Resources</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">
+Inductive rules, operational semantics, untyped lambda calculus</td>
+</tr>
+<tr class="even">
+<td align="left">2</td>
+<td align="left">1</td>
+<td align="left">
+Simply typed lambda calculus, type systems, ML</td>
+</tr>
+<tr class="odd">
+<td align="left">3</td>
+<td align="left">1</td>
+<td align="left">
+Data types, abstract types, polymorphism, module systems</td>
+</tr>
+<tr class="even">
+<td align="left">4</td>
+<td align="left">1</td>
+<td align="left">
+Simple types, dependent types, theorem proving</td>
+</tr>
+</tbody>
+</table>
