@@ -86,7 +86,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">13:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
 <td align="left">Inductive rules, operational semantics, untyped lambda calculus</td>
-<td align="left">TBA</td>
+<td align="left"><a href="./module-1/lectures/lecture-1.pdf">Lecture 1</a></td>
 </tr>
 <tr class="even">
 <td align="left">2</td>
