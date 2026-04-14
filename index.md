@@ -95,7 +95,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">15:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
 <td align="left">Simply typed lambda calculus, type systems, ML</td>
-<td align="left">TBA</td>
+<td align="left"><a href="./module-1/lectures/lecture-2.pdf">Lecture 2</a></td>
 </tr>
 <tr class="odd">
 <td align="left">3</td>
