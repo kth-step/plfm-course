@@ -34,6 +34,10 @@ The course consists of five modules given by members of faculty and postdocs at 
 
 ## Course examination
 
+The course has two forms of examination: homeworks and take-home exams.
+
+Each module has a homework problem set where a written solution must be handed in that is graded pass/fail based on demonstrated effort to solve problems; solutions need not be correct. The aim of the homeworks to help students prepare for the take-home exam.
+
 At the end of each period the course spans, a take-home exam is given over two days consisting of one problem set per module associated with that period. After handing in written solutions, students must book a slot to present and discuss their solutions with a teacher, who will then grade each problem set pass/fail. A student must get a pass on all problem sets to pass the course.
 
 ## Course modules
