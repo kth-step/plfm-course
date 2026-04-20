@@ -108,8 +108,8 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">Apr 20</td>
 <td align="left">13:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
-<td align="left">Data types, abstract types, polymorphism, module systems</td>
-<td align="left">TBA</td>
+<td align="left">Data types, polymorphism, abstract types, module systems</td>
+<td align="left"><a href="./module-1/lectures/lecture-3.pdf">Lecture 3</a></td>
 </tr>
 <tr class="even">
 <td align="left">4</td>
@@ -231,7 +231,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">3</td>
 <td align="left">1</td>
 <td align="left">
-- [PFPL](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf) chapters 9-11, 17, 44
+- [PFPL](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf) chapters 9-11, 16-17, 44
 - [A theory of type polymorphism in programming](https://doi.org/10.1016/0022-0000(78)90014-4) by Robin Milner
 - [Using dependent types to express modular structure](https://doi.org/10.1145/512644.512670) by David B. MacQueen
 - [How to make ad-hoc polymorphism less ad hoc](https://doi.org/10.1145/75277.75283) by Wadler and Blott
