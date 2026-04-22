@@ -51,8 +51,11 @@ At the end of each period the course spans, a take-home exam is given over two d
 
 **Module 2 (Period 4, spring 2026)**
 
-- Topic: Formal models of concurrency, process algebras, execution traces, bisimulation, weak memory models, modal logics
+- Topic: Formal models of concurrency, process algebras, execution traces,
+  bisimulation, weak memory models, modal logics
 - Teachers: Mads Dam and Roberto Guanciale
+- Course literature: Principles of Model Checking by Christel Baier and
+  Joost-Pieter Katoen, A gentle introduction to Process Algebras by Rocco De Nicola
 
 **Module 3 (Period 4, spring 2026)**
 
@@ -123,19 +126,19 @@ At the end of each period the course spans, a take-home exam is given over two d
 <tr class="odd">
 <td align="left">5</td>
 <td align="left">2</td>
-<td align="left">Week 18</td>
-<td align="left">TBA</td>
-<td align="left">TBA</td>
-<td align="left">Concurrency</td>
+<td align="left">Apr 28</td>
+<td align="left">10:00</td>
+<td align="left"><a href="https://www.kth.se/places/room/id/c26833a0-f874-4b2e-9f65-46d9aef0e4d1">room 4423</a></td>
+<td align="left">Concurrency, Executions, Interleaving</td>
 <td align="left">TBA</td>
 </tr>
 <tr class="even">
 <td align="left">6</td>
 <td align="left">2</td>
-<td align="left">Week&nbsp;18</td>
-<td align="left">TBA</td>
-<td align="left">TBA</td>
-<td align="left">Concurrency</td>
+<td align="left">Apr 29</td>
+<td align="left">10:00</td>
+<td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
+<td align="left">Process Algebra, CCS,pi-calculus</td>
 <td align="left">TBA</td>
 </tr>
 <tr class="odd">
@@ -236,7 +239,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 - [Using dependent types to express modular structure](https://doi.org/10.1145/512644.512670) by David B. MacQueen
 - [How to make ad-hoc polymorphism less ad hoc](https://doi.org/10.1145/75277.75283) by Wadler and Blott
 </td>
-</tr>
+``</tr>
 <tr class="even">
 <td align="left">4</td>
 <td align="left">1</td>
@@ -244,6 +247,23 @@ At the end of each period the course spans, a take-home exam is given over two d
 - [Church's Type Theory](https://plato.stanford.edu/entries/type-theory-church/) by Stanford Encyclopedia of Philosophy
 - [A formulation of the simple theory of types](https://doi.org/10.2307/2266170) by Alonzo Church
 - [Dependent types](https://people.cs.nott.ac.uk/psztxa/oplss-22/dependent.pdf) by Thorsten Altenkirch
+</td>
+</tr>
+<tr class="odd">
+<td align="left">5</td>
+<td align="left">2</td>
+<td align="left">
+- Principles of Model Checking chapter 2
+- Models For Concurrency by Glynn Winskel Mogens Nielsen
+</td>
+</tr>
+<tr class="even">
+<td align="left">6</td>
+<td align="left">2</td>
+<td align="left">
+- A gentle introduction to Process Algebras by Rocco De Nicola
+- A calculus of communicating systems by Robin Milner
+- Communicating and mobile systems: the pi calculus by Robin Milner
 </td>
 </tr>
 </tbody>
