@@ -121,7 +121,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">13:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
 <td align="left">Simple types, dependent types, theorem proving</td>
-<td align="left">TBA</td>
+<td align="left"><a href="./module-1/lectures/lecture-4.pdf">Lecture 4</a></td>
 </tr>
 <tr class="odd">
 <td align="left">5</td>
