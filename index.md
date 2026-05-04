@@ -268,7 +268,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 </td>
 </tr>
 <tr class="odd">
-<td align="left">5</td>
+<td align="left">7</td>
 <td align="left">2</td>
 <td align="left">
 - [Simplifying ARM Concurrency: Multicopy-Atomic Axiomatic and Operational Models for ARMv8](https://doi.org/10.1145/3158107) by Pulte et al.
