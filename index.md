@@ -56,7 +56,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 - Teachers: Mads Dam and Roberto Guanciale
 - Course literature:
   - [Principles of Model Checking](https://mitpress.mit.edu/9780262026499/principles-of-model-checking) by Christel Baier Joost-Pieter Katoen,
-  - A gentle introduction to Process Algebras by Rocco De Nicola
+  - [A gentle introduction to Process Algebras](https://doi.org/10.5281/zenodo.11065174) by Rocco De Nicola
 
 **Module 3 (Period 4, spring 2026)**
 
@@ -154,9 +154,9 @@ At the end of each period the course spans, a take-home exam is given over two d
 <tr class="even">
 <td align="left">8</td>
 <td align="left">2</td>
-<td align="left">Week 19</td>
-<td align="left">TBA</td>
-<td align="left">TBA</td>
+<td align="left">May 6</td>
+<td align="left">10:00</td>
+<td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
 <td align="left">Concurrency</td>
 <td align="left">TBA</td>
 </tr>
@@ -262,9 +262,9 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">6</td>
 <td align="left">2</td>
 <td align="left">
-- A gentle introduction to Process Algebras by Rocco De Nicola
-- A calculus of communicating systems by Robin Milner
-- Communicating and mobile systems: the pi calculus by Robin Milner
+- [A gentle introduction to Process Algebras](https://doi.org/10.5281/zenodo.11065174) by Rocco De Nicola
+- [A calculus of communicating systems](https://doi.org/10.1007/3-540-10235-3) by Robin Milner
+- [Communicating and mobile systems: the pi calculus](https://dl.acm.org/doi/book/10.5555/329902) by Robin Milner
 </td>
 </tr>
 <tr class="odd">
