@@ -255,7 +255,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">2</td>
 <td align="left">
 - [Principles of Model Checking](https://mitpress.mit.edu/9780262026499/principles-of-model-checking), chapter 2
-- Models For Concurrency by Glynn Winskel and Mogens Nielsen
+- [Models For Concurrency](https://doi.org/10.1093/oso/9780198537809.003.0001) by Glynn Winskel and Mogens Nielsen
 </td>
 </tr>
 <tr class="even">
