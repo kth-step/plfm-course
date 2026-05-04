@@ -54,8 +54,9 @@ At the end of each period the course spans, a take-home exam is given over two d
 - Topic: Formal models of concurrency, process algebras, execution traces,
   bisimulation, weak memory models, modal logics
 - Teachers: Mads Dam and Roberto Guanciale
-- Course literature: Principles of Model Checking by Christel Baier and
-  Joost-Pieter Katoen, A gentle introduction to Process Algebras by Rocco De Nicola
+- Course literature:
+  - [Principles of Model Checking](https://mitpress.mit.edu/9780262026499/principles-of-model-checking) by Christel Baier Joost-Pieter Katoen,
+  - A gentle introduction to Process Algebras by Rocco De Nicola
 
 **Module 3 (Period 4, spring 2026)**
 
@@ -130,7 +131,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">10:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/c26833a0-f874-4b2e-9f65-46d9aef0e4d1">room 4423</a></td>
 <td align="left">Concurrency, Executions, Interleaving</td>
-<td align="left">TBA</td>
+<td align="left"><a href="./module-2/lectures/lecture-1.pdf">Lecture 5</a></td>
 </tr>
 <tr class="even">
 <td align="left">6</td>
@@ -138,17 +139,17 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">Apr 29</td>
 <td align="left">10:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
-<td align="left">Process Algebra, CCS,pi-calculus</td>
-<td align="left">TBA</td>
+<td align="left">Process Algebra, CCS, pi-calculus</td>
+<td align="left"><a href="./module-2/lectures/lecture-2.pdf">Lecture 6</a></td>
 </tr>
 <tr class="odd">
 <td align="left">7</td>
 <td align="left">2</td>
-<td align="left">Week 19</td>
-<td align="left">TBA</td>
-<td align="left">TBA</td>
-<td align="left">Concurrency</td>
-<td align="left">TBA</td>
+<td align="left">May 4</td>
+<td align="left">15:00</td>
+<td align="left"><a href="https://www.kth.se/places/room/id/c26833a0-f874-4b2e-9f65-46d9aef0e4d1">room 4423</a></td>
+<td align="left">Weak Memory Models</td>
+<td align="left"><a href="./module-2/lectures/lecture-3.pdf">Lecture 7</a></td>
 </tr>
 <tr class="even">
 <td align="left">8</td>
@@ -239,7 +240,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 - [Using dependent types to express modular structure](https://doi.org/10.1145/512644.512670) by David B. MacQueen
 - [How to make ad-hoc polymorphism less ad hoc](https://doi.org/10.1145/75277.75283) by Wadler and Blott
 </td>
-``</tr>
+</tr>
 <tr class="even">
 <td align="left">4</td>
 <td align="left">1</td>
@@ -253,8 +254,8 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">5</td>
 <td align="left">2</td>
 <td align="left">
-- Principles of Model Checking chapter 2
-- Models For Concurrency by Glynn Winskel Mogens Nielsen
+- [Principles of Model Checking](https://mitpress.mit.edu/9780262026499/principles-of-model-checking), chapter 2
+- Models For Concurrency by Glynn Winskel and Mogens Nielsen
 </td>
 </tr>
 <tr class="even">
@@ -264,6 +265,14 @@ At the end of each period the course spans, a take-home exam is given over two d
 - A gentle introduction to Process Algebras by Rocco De Nicola
 - A calculus of communicating systems by Robin Milner
 - Communicating and mobile systems: the pi calculus by Robin Milner
+</td>
+</tr>
+<tr class="odd">
+<td align="left">5</td>
+<td align="left">2</td>
+<td align="left">
+- [Simplifying ARM Concurrency: Multicopy-Atomic Axiomatic and Operational Models for ARMv8](https://doi.org/10.1145/3158107) by Pulte et al.
+- [x86-TSO: A Rigorous and Usable Programmer's Model for x86 Multiprocessors](https://doi.org/10.1145/1785414.1785443) by Sewell et al.
 </td>
 </tr>
 </tbody>
