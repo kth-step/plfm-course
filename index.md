@@ -157,8 +157,8 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">May 6</td>
 <td align="left">10:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
-<td align="left">Concurrency</td>
-<td align="left">TBA</td>
+<td align="left">Modal and Temporal Logics</td>
+<td align="left"><a href="./module-2/lectures/lecture-4.pdf">Lecture 8</a></td>
 </tr>
 <tr class="odd">
 <td align="left">9</td>
@@ -273,6 +273,13 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">
 - [Simplifying ARM Concurrency: Multicopy-Atomic Axiomatic and Operational Models for ARMv8](https://doi.org/10.1145/3158107) by Pulte et al.
 - [x86-TSO: A Rigorous and Usable Programmer's Model for x86 Multiprocessors](https://doi.org/10.1145/1785414.1785443) by Sewell et al.
+</td>
+</tr>
+<tr class="even">
+<td align="left">8</td>
+<td align="left">2</td>
+<td align="left">
+- [Modal and Temporal Logics](https://www.lfcs.inf.ed.ac.uk/reports/91/ECS-LFCS-91-157/ECS-LFCS-91-157.pdf) by Colin Stirling
 </td>
 </tr>
 </tbody>
