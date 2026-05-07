@@ -44,14 +44,14 @@ At the end of each period the course spans, a take-home exam is given over two d
 
 **Module 1 (Period 4, spring 2026)**
 
-- Topic: Lambda calculus, operational semantics, and types
+- Topics: Lambda calculus, operational semantics, and types
 - Teachers: Karl Palmskog and Mohammad Ahmadpanah
 - Course literature: [Practical Foundations for Programming Languages, 2nd edition](https://www.cs.cmu.edu/~rwh/pfpl/) by Robert Harper, <strong>PFPL</strong> for short, see [abbreviated online edition](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf)
 - [Homework Problem Set](./module-1/homework.pdf), deadline 2026-05-07 at 18:00
 
 **Module 2 (Period 4, spring 2026)**
 
-- Topic: Formal models of concurrency, process algebras, execution traces,
+- Topics: Formal models of concurrency, process algebras, execution traces,
   bisimulation, weak memory models, modal logics
 - Teachers: Mads Dam and Roberto Guanciale
 - Course literature:
@@ -60,17 +60,17 @@ At the end of each period the course spans, a take-home exam is given over two d
 
 **Module 3 (Period 4, spring 2026)**
 
-- Topic: Hoare logic, imperative program verification
+- Topics: Hoare logic, verification of imperative programs
 - Teachers: Karl Palmskog and Roberto Guanciale
 
 **Module 4 (Period 1, fall 2026)**
 
-- Topic: Symbolic execution and abstract interpretation
+- Topics: Symbolic execution and abstract interpretation
 - Teachers: Roberto Guanciale and Musard Balliu
 
 **Module 5 (Period 1, fall 2026)**
 
-- Topic: Security and information flow control
+- Topics: Security and information flow control
 - Teachers: Musard Balliu and Mohammad Ahmadpanah 
 
 ## Lecture Schedule for Period 4, 2026
@@ -175,25 +175,25 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">Week 20</td>
 <td align="left">TBA</td>
 <td align="left">TBA</td>
-<td align="left">Hoare logic</td>
+<td align="left">Hoare triples, weakest precondition, soundness, partial vs. total correctness, completeness, composition</td>
 <td align="left">TBA</td>
 </tr>
 <tr class="odd">
 <td align="left">11</td>
 <td align="left">3</td>
-<td align="left">Week 20</td>
+<td align="left">Week 21</td>
 <td align="left">TBA</td>
 <td align="left">TBA</td>
-<td align="left">Hoare logic</td>
+<td align="left">Hoare logic with procedures, separation logics, relational logic, assume-guarantee contracts</td>
 <td align="left">TBA</td>
 </tr>
 <tr class="even">
 <td align="left">12</td>
 <td align="left">3</td>
-<td align="left">Week 20</td>
+<td align="left">Week 21</td>
 <td align="left">TBA</td>
 <td align="left">TBA</td>
-<td align="left">Hoare logic</td>
+<td align="left">Practical Hoare logic with JML, ACSL, Frama-C WP and the Rocq Prover</td>
 <td align="left">TBA</td>
 </tr>
 </tbody>
