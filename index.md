@@ -57,6 +57,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 - Course literature:
   - [Principles of Model Checking](https://mitpress.mit.edu/9780262026499/principles-of-model-checking) by Christel Baier Joost-Pieter Katoen,
   - [A gentle introduction to Process Algebras](https://doi.org/10.5281/zenodo.11065174) by Rocco De Nicola
+- [Homework Problem Set](./module-2/homework.pdf), deadline 2026-05-25 at 18:00
 
 **Module 3 (Period 4, spring 2026)**
 
