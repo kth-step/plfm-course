@@ -63,7 +63,15 @@ At the end of each period the course spans, a take-home exam is given over two d
 
 - Topics: Hoare logic, verification of imperative programs
 - Teachers: Karl Palmskog and Roberto Guanciale
-
+- Course literature:
+  - C. A. R. Hoare, An Axiomatic Basis for Computer Programming, CACM, 1969.
+  - Robert W. Floyd, Assigning Meanings to Programs, 1967.
+  - Mike Gordon, Programming Language Theory and its Implementation, Hoare logic
+    chapters.
+  - Stephen A. Cook, Soundness and Completeness of an Axiom System for Program
+  Verification, 1978.
+  - Edsger W. Dijkstra, A Discipline of Programming, weakest preconditions.
+  
 **Module 4 (Period 1, fall 2026)**
 
 - Topics: Symbolic execution and abstract interpretation
