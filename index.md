@@ -30,7 +30,7 @@ At the end of the course the student should be able to:
 
 ## Course organization
 
-The course consists of five modules given by members of faculty and postdocs at the [KTH Department of Theoretical Computer Science](https://www.kth.se/tcs/) over a full term = two periods. Each module consists of 3-6 lectures.
+The course consists of five modules given by members of faculty and postdocs at the [KTH Department of Theoretical Computer Science](https://www.kth.se/tcs/) over a full term = two periods. Each module consists of 2-6 lectures.
 
 ## Course examination
 
@@ -64,13 +64,12 @@ At the end of each period the course spans, a take-home exam is given over two d
 - Topics: Hoare logic, verification of imperative programs
 - Teachers: Karl Palmskog and Roberto Guanciale
 - Course literature:
-  - C. A. R. Hoare, An Axiomatic Basis for Computer Programming, CACM, 1969.
-  - Robert W. Floyd, Assigning Meanings to Programs, 1967.
-  - Mike Gordon, Programming Language Theory and its Implementation, Hoare logic
-    chapters.
-  - Stephen A. Cook, Soundness and Completeness of an Axiom System for Program
-  Verification, 1978.
-  - Edsger W. Dijkstra, A Discipline of Programming, weakest preconditions.
+  - [An Axiomatic Basis for Computer Programming](https://doi.org/10.1145/363235.363259) by C.A.R. Hoare
+  - [Assigning Meanings to Programs](https://doi.org/10.1007/978-94-011-1793-7_4) by Robert W. Floyd
+  - [Programming Language Theory and its Implementation](https://archive.org/details/programminglangu0000gord), Hoare logic chapters, by Mike Gordon
+  - [Soundness and Completeness of an Axiom System for Program Verification](https://doi.org/10.1137/0207005), by Stephen A. Cook
+  - [A Discipline of Programming](https://dl.acm.org/doi/book/10.5555/550359), weakest preconditions, by Edsger Dijkstra
+- [Homework Problem Set](./module-3/homework.pdf), deadline 2026-06-02 at 18:00
   
 **Module 4 (Period 1, fall 2026)**
 
@@ -184,7 +183,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">May 18</td>
 <td align="left">13:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
-<td align="left">Hoare triples, weakest precondition, soundness, partial vs. total correctness, completeness, composition</td>
+<td align="left">Hoare triples, weakest precondition, soundness, partial/total correctness, completeness</td>
 <td align="left"><a href="./module-3/lectures/lecture-1.pdf">Lecture 10</a></td>
 </tr>
 <tr class="odd">
@@ -195,17 +194,8 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left"><a
 href="https://www.kth.se/places/room/id/95b88c8c-ccd2-4412-97e6-d214d24e4552">Teknikringen
 31: 1320</a></td>
-<td align="left">Hoare logic with procedures, separation logics, relational logic, assume-guarantee contracts</td>
-<td align="left">TBA</td>
-</tr>
-<tr class="even">
-<td align="left">12</td>
-<td align="left">3</td>
-<td align="left">Week 21</td>
-<td align="left">TBA</td>
-<td align="left">TBA</td>
-<td align="left">Practical Hoare logic with JML, ACSL, Frama-C WP and the Rocq Prover</td>
-<td align="left">TBA</td>
+<td align="left">Hoare logic with procedures, separation logics, assume-guarantee contracts</td>
+<td align="left"><a href="./module-3/lectures/lecture-2.pdf">Lecture 11</a></td>
 </tr>
 </tbody>
 </table>
@@ -291,6 +281,14 @@ href="https://www.kth.se/places/room/id/95b88c8c-ccd2-4412-97e6-d214d24e4552">Te
 <td align="left">2</td>
 <td align="left">
 - [Modal and Temporal Logics](https://www.lfcs.inf.ed.ac.uk/reports/91/ECS-LFCS-91-157/ECS-LFCS-91-157.pdf) by Colin Stirling
+</td>
+</tr>
+<tr class="odd">
+<td align="left">7</td>
+<td align="left">2</td>
+<td align="left">
+- [Getting Started with Dafny: A Guide](https://dafny.org/latest/OnlineTutorial/guide) by Dafny authors
+- [Foundations of Separation Logic for Sequential Programs](https://chargueraud.org/teach/verif/slf_notes.pdf) by Arthur Charguéraud
 </td>
 </tr>
 </tbody>
