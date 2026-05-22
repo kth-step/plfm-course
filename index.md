@@ -172,10 +172,10 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">9</td>
 <td align="left">2</td>
 <td align="left">Week 20</td>
-<td align="left">TBA</td>
-<td align="left">TBA</td>
-<td align="left">Concurrency</td>
-<td align="left">TBA</td>
+<td align="left">May 12</td>
+<td align="left">10:00</td>
+<td align="left">Modal and Temporal Logics</td>
+<td align="left"><a href="./module-2/lectures/lecture-4.pdf">Lecture 9</a></td>
 </tr>
 <tr class="even">
 <td align="left">10</td>
@@ -183,7 +183,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">May 18</td>
 <td align="left">13:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
-<td align="left">Hoare triples, weakest precondition, soundness, partial/total correctness, completeness</td>
+<td align="left">Basic Hoare logic</td>
 <td align="left"><a href="./module-3/lectures/lecture-1.pdf">Lecture 10</a></td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left"><a
 href="https://www.kth.se/places/room/id/95b88c8c-ccd2-4412-97e6-d214d24e4552">Teknikringen
 31: 1320</a></td>
-<td align="left">Hoare logic with procedures, separation logics, assume-guarantee contracts</td>
+<td align="left">Pratical Hoare logic</td>
 <td align="left"><a href="./module-3/lectures/lecture-2.pdf">Lecture 11</a></td>
 </tr>
 </tbody>
@@ -284,7 +284,7 @@ href="https://www.kth.se/places/room/id/95b88c8c-ccd2-4412-97e6-d214d24e4552">Te
 </td>
 </tr>
 <tr class="odd">
-<td align="left">7</td>
+<td align="left">10</td>
 <td align="left">2</td>
 <td align="left">
 - [Getting Started with Dafny: A Guide](https://dafny.org/latest/OnlineTutorial/guide) by Dafny authors
