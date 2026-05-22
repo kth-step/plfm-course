@@ -184,7 +184,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left">13:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
 <td align="left">Basic Hoare logic</td>
-<td align="left"><a href="./module-3/lectures/lecture-1.pdf">Lecture 10</a></td>
+<td align="left"><a href="./module-3/lectures/lecture-1.pdf">Lecture&nbsp;10</a></td>
 </tr>
 <tr class="odd">
 <td align="left">11</td>
@@ -194,8 +194,8 @@ At the end of each period the course spans, a take-home exam is given over two d
 <td align="left"><a
 href="https://www.kth.se/places/room/id/95b88c8c-ccd2-4412-97e6-d214d24e4552">Teknikringen
 31: 1320</a></td>
-<td align="left">Pratical Hoare logic</td>
-<td align="left"><a href="./module-3/lectures/lecture-2.pdf">Lecture 11</a></td>
+<td align="left">Practical Hoare logic</td>
+<td align="left"><a href="./module-3/lectures/lecture-2.pdf">Lecture&nbsp;11</a></td>
 </tr>
 </tbody>
 </table>
