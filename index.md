@@ -171,9 +171,9 @@ At the end of each period the course spans, a take-home exam is given over two d
 <tr class="odd">
 <td align="left">9</td>
 <td align="left">2</td>
-<td align="left">Week 20</td>
 <td align="left">May 12</td>
 <td align="left">10:00</td>
+<td align="left">room 4423</td>
 <td align="left">Modal and Temporal Logics</td>
 <td align="left"><a href="./module-2/lectures/lecture-4.pdf">Lecture 9</a></td>
 </tr>
