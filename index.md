@@ -38,7 +38,7 @@ The course has two forms of examination: homeworks and take-home exams.
 
 Each module has a homework problem set where a written solution must be handed in that is graded pass/fail based on demonstrated effort to solve problems; solutions need not be correct. The aim of the homeworks to help students prepare for the take-home exam.
 
-At the end of each period the course spans, a take-home exam is given over two days consisting of one problem set per module associated with that period. After handing in written solutions, students must book a slot to present and discuss their solutions with a teacher, who will then grade each problem set pass/fail. A student must get a pass on all problem sets to pass the course.
+At the end of each period the course spans, a take-home exam is given consisting of one problem set per module associated with that period. Students must book a slot to present and discuss their solutions with a teacher, who will then grade each problem set pass/fail. A student must get a pass on all problem sets to pass the course.
 
 ## Course modules
 
@@ -48,6 +48,7 @@ At the end of each period the course spans, a take-home exam is given over two d
 - Teachers: Karl Palmskog and Mohammad Ahmadpanah
 - Course literature: [Practical Foundations for Programming Languages, 2nd edition](https://www.cs.cmu.edu/~rwh/pfpl/) by Robert Harper, <strong>PFPL</strong> for short, see [abbreviated online edition](http://www.cs.cmu.edu/~rwh/pfpl/abbrev.pdf)
 - [Homework Problem Set](./module-1/homework.pdf), deadline 2026-05-07 at 18:00
+- [Oral Exam Problem Set](./module-1/exam.pdf)
 
 **Module 2 (Period 4, spring 2026)**
 
