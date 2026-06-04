@@ -71,6 +71,7 @@ At the end of each period the course spans, a take-home exam is given consisting
   - [Soundness and Completeness of an Axiom System for Program Verification](https://doi.org/10.1137/0207005), by Stephen A. Cook
   - [A Discipline of Programming](https://dl.acm.org/doi/book/10.5555/550359), weakest preconditions, by Edsger Dijkstra
 - [Homework Problem Set](./module-3/homework.pdf), deadline 2026-06-02 at 18:00
+- [Oral Exam Problem Set](./module-3/exam.pdf)
   
 **Module 4 (Period 1, fall 2026)**
 
