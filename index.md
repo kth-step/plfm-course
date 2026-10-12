@@ -232,7 +232,9 @@ href="https://www.kth.se/places/room/id/95b88c8c-ccd2-4412-97e6-d214d24e4552">Te
 <td align="left">13:00</td>
 <td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
 <td align="left">Symbolic execution</td>
-<td align="left"><a href="./module-4/lectures/lecture-1.pdf">Lecture 1</a></td>
+<td align="left"><a href="./module-4/lectures/lecture-1.pdf">Lecture 1</a>
+<td align="left"><a href="./module-4/sym_exec.lean">Lean 4 model</a>
+</td>
 </tr>
 <tr class="even">
 <td align="left">13</td>
