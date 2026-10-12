@@ -77,6 +77,14 @@ At the end of each period the course spans, a take-home exam is given consisting
 
 - Topics: Symbolic execution and abstract interpretation
 - Teachers: Roberto Guanciale and Musard Balliu
+- Course literature:
+  - [Symbolic execution for software testing: three decades later](https://dl.acm.org/doi/abs/10.1145/2408776.2408795)
+  by C Cadar, K Sen
+  - [KLEE: Unassisted and Automatic Generation of High-Coverage
+Tests for Complex Systems
+Programs](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/cadar/cadar.pdf)
+by C Cadar, D Dunbar, DR Engler
+  - [Symbolic execution and program testing](https://dl.acm.org/doi/abs/10.1145/360248.360252) by JC King
 
 **Module 5 (Period 1, fall 2026)**
 
@@ -198,6 +206,42 @@ href="https://www.kth.se/places/room/id/95b88c8c-ccd2-4412-97e6-d214d24e4552">Te
 31: 1320</a></td>
 <td align="left">Practical Hoare logic</td>
 <td align="left"><a href="./module-3/lectures/lecture-2.pdf">Lecture&nbsp;11</a></td>
+</tr>
+</tbody>
+</table>
+
+## Lecture Schedule for Period 1-2, 2026
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">Lecture</th>
+<th align="left">Module</th>
+<th align="left">Date</th>
+<th align="left">Time</th>
+<th align="left">Location</th>
+<th align="left">Topic</th>
+<th align="left">Slides</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">12</td>
+<td align="left">4</td>
+<td align="left">Oct&nbsp;13</td>
+<td align="left">13:00</td>
+<td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
+<td align="left">Symbolic execution</td>
+<td align="left"><a href="./module-4/lectures/lecture-1.pdf">Lecture 1</a></td>
+</tr>
+<tr class="even">
+<td align="left">13</td>
+<td align="left">4</td>
+<td align="left">Oct 15</td>
+<td align="left">13:00</td>
+<td align="left"><a href="https://www.kth.se/places/room/id/7beef522-ce4c-4926-98bd-73eed4956ed9">room 1537</a></td>
+<td align="left">Symbolic execution for procedures, arrays, function pointers</td>
+<td align="left"><a href="./module-4/lectures/lecture-2.pdf">Lecture 2</a></td>
 </tr>
 </tbody>
 </table>
