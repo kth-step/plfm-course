@@ -254,6 +254,15 @@ href="https://www.kth.se/places/room/id/95b88c8c-ccd2-4412-97e6-d214d24e4552">Te
 <td align="left">Intro to abstract interpretations</td>
 <td align="left"><a href="./module-4/lectures/lecture-3.pdf">Lecture 3</a></td>
 </tr>
+<tr class="odd">
+<td align="left">15</td>
+<td align="left">4</td>
+<td align="left">Nov 13</td>
+<td align="left">13:00</td>
+<td align="left"></td>
+<td align="left">Applications of abstract interpretations and other domains</td>
+<td align="left"><a href="./module-4/lectures/lecture-4.pdf">Lecture 4</a></td>
+</tr>
 </tbody>
 </table>
 
